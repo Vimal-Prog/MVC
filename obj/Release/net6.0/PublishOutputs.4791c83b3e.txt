@@ -1,0 +1,7 @@
+V:\Projects\ASP.Net\Practice\AppTest\bin\Release\net6.0\publish\AppTest.exe
+V:\Projects\ASP.Net\Practice\AppTest\bin\Release\net6.0\publish\appsettings.Development.json
+V:\Projects\ASP.Net\Practice\AppTest\bin\Release\net6.0\publish\appsettings.json
+V:\Projects\ASP.Net\Practice\AppTest\bin\Release\net6.0\publish\AppTest.dll
+V:\Projects\ASP.Net\Practice\AppTest\bin\Release\net6.0\publish\AppTest.deps.json
+V:\Projects\ASP.Net\Practice\AppTest\bin\Release\net6.0\publish\AppTest.runtimeconfig.json
+V:\Projects\ASP.Net\Practice\AppTest\bin\Release\net6.0\publish\AppTest.pdb
